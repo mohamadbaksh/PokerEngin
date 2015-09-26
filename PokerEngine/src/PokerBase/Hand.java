@@ -7,7 +7,7 @@ import java.util.UUID;
 
 import javax.xml.bind.annotation.XmlElement;
 
-import Poker_joker.Card;
+import PokerBase.Card;
 import pockerEnums.eCardNo;
 import pockerEnums.eHandStrength;
 import pockerEnums.eRank;
