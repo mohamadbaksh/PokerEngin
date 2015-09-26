@@ -145,7 +145,7 @@ public class Hand {
 		// five of a Kind
 		if (CardsInHand.get(eCardNo.FirstCard.getCardNo()).getRank() == CardsInHand
 				.get(eCardNo.FifthCard.getCardNo()).getRank()) {
-			ScoreHand(eHandStrength.FiveofaKind,
+			ScoreHand(eHandStrength.FiveOfAKind,
 					CardsInHand.get(eCardNo.FirstCard.getCardNo()).getRank()
 							.getRank(), 0, 0);
 		}
