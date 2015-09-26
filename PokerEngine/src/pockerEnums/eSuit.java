@@ -1,4 +1,5 @@
-package PokerEngine;
+package pokerEnums;
+
 
 public enum eSuit {
 
@@ -16,4 +17,3 @@ public enum eSuit {
 	
 	
 }
-

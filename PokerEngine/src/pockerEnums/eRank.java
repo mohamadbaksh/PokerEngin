@@ -1,4 +1,4 @@
-package PokerEngine;
+package pokerEnums;
 
 public enum eRank {
 
