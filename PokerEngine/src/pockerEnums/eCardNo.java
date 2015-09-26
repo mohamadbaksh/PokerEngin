@@ -1,4 +1,4 @@
-package pokerEnums;
+package pockerEnums;
 
 public enum eCardNo {
 
