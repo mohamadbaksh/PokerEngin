@@ -1,4 +1,4 @@
-package pokerBase;
+package PokerBase;
 
 import java.io.StringWriter;
 import java.util.ArrayList;
@@ -9,8 +9,8 @@ import javax.xml.bind.Marshaller;
 import javax.xml.bind.annotation.XmlElement;
 import javax.xml.bind.annotation.XmlRootElement;
 
-import pokerEnums.eRank;
-import pokerEnums.eSuit;
+import pockerEnums.eRank;
+import pockerEnums.eSuit;
 
 @XmlRootElement
 public class Deck {

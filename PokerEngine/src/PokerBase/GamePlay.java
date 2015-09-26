@@ -1,4 +1,4 @@
-package pokerBase;
+package PokerBase;
 
 import java.util.ArrayList;
 import java.util.UUID;

@@ -1,10 +1,10 @@
-package pokerBase;
+package PokerBase;
 
 import java.util.ArrayList;
 
-import pokerEnums.eGame;
-import pokerEnums.eRank;
-import pokerEnums.eSuit;
+import pockerEnums.eGame;
+import pockerEnums.eRank;
+import pockerEnums.eSuit;
 
 public class Rule {
 

@@ -4,8 +4,8 @@ import java.util.Comparator;
 
 import javax.xml.bind.annotation.XmlElement;
 
-import pokerEnums.eRank;
-import pokerEnums.eSuit;
+import pockerEnums.eRank;
+import pockerEnums.eSuit;
 
 public final class Card {
 	@XmlElement

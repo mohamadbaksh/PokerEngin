@@ -1,4 +1,4 @@
-package pokerBase;
+package PokerBase;
 
 import java.util.ArrayList;
 import java.util.Collections;
@@ -7,9 +7,9 @@ import java.util.UUID;
 
 import javax.xml.bind.annotation.XmlElement;
 
-import pokerEnums.eCardNo;
-import pokerEnums.eHandStrength;
-import pokerEnums.eRank;
+import pockerEnums.eCardNo;
+import pockerEnums.eHandStrength;
+import pockerEnums.eRank;
 
 public class Hand {
 	private UUID playerID;
