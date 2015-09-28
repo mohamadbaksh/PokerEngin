@@ -2,6 +2,8 @@ package pokerBase;
 
 import static org.junit.Assert.*;
 
+import java.util.ArrayList;
+
 import org.junit.After;
 import org.junit.AfterClass;
 import org.junit.Before;
@@ -29,7 +31,6 @@ public class Deck_Test {
 	@Test
 	public void TestFullDeck() {
 		
-		assertTrue(1==1);
 	}
 
 }
